@@ -3,15 +3,15 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable APIs and web applications. With 3.5 years of hands-on experience, I have honed my skills in front-end technologies like React and Angular, as well as back-end technologies like  Java, SpringBoot, Python, Flask, Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable APIs and web applications. With nearly 4 years of hands-on experience, I have honed my skills in front-end technologies like React and Angular, as well as back-end technologies like  Java, SpringBoot, Python, Flask, Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly APIs and web applications. With 3.5 years of professional experience, I have worked with a variety of technologies, including Java, SpringBoot, Python, Flask, Microservices, Kafka, ActiveMQ, Angular, React, Node.js, MySQL, PostgreSQL, MongoDB, AWS, Azure, Docker and Kubernetes. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly APIs and web applications. With nearly 4 years of professional experience, I have worked with a variety of technologies, including Java, SpringBoot, Python, Flask, Microservices, Kafka, ActiveMQ, Angular, React, Node.js, MySQL, PostgreSQL, MongoDB, AWS, Azure, Docker and Kubernetes. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
     year: "Oct 2023 - Mar 2024",
     role: "Full Stack Java Developer",
-    company: "Alpine Tech Inc.",
+    company: "Delloite",
     description: `I built high-performance microservices using Java and Spring Boot, designed user-friendly interfaces with React and Node.js, and implemented cloud solutions with AWS, Docker, and Kubernetes. I enhanced system reliability by 20% through RESTful APIs, real-time data synchronization with Kafka, and efficient data management with PostgreSQL and MongoDB, while ensuring robust security with OAuth, Spring Security, JWT, and API Gateway.`,
     technologies: ["Java", "SpringBoot", "Kafka", "Javascript", "React.js", "AWS", "MongoDB", "PostgreSQL", "Docker", "Kubernetes", "Mokito", "Git"],
   },
