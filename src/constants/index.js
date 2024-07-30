@@ -11,7 +11,7 @@ export const EXPERIENCES = [
   {
     year: "Oct 2023 - Mar 2024",
     role: "Full Stack Java Developer",
-    company: "Delloite",
+    company: "Deloitte",
     description: `I built high-performance microservices using Java and Spring Boot, designed user-friendly interfaces with React and Node.js, and implemented cloud solutions with AWS, Docker, and Kubernetes. I enhanced system reliability by 20% through RESTful APIs, real-time data synchronization with Kafka, and efficient data management with PostgreSQL and MongoDB, while ensuring robust security with OAuth, Spring Security, JWT, and API Gateway.`,
     technologies: ["Java", "SpringBoot", "Kafka", "Javascript", "React.js", "AWS", "MongoDB", "PostgreSQL", "Docker", "Kubernetes", "Mokito", "Git"],
   },
@@ -63,7 +63,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "3224 Whitcomb Street, Charlotte, NC 28269 ",
+  address: "Dallas, TX - 76201",
   phoneNo: "+1 513 923 6828 ",
   email: "naveenkumar.jakkula98@gmail.com",
 };

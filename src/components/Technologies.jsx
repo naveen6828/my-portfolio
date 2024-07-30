@@ -74,11 +74,6 @@ const Technologies = () => {
                     <p className="text-s text-center">Spring</p>
                 </motion.div>
 
-                <div className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <SiSpringboot className="text-7xl text-green-500" />
-                    <p className="text-s text-center">Spring</p>
-                </div>
-
                 {/* Python */}
                 <motion.div
                     variants={iconVariants(4)}

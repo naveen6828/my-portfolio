@@ -1,5 +1,7 @@
 // import React from 'react'
-import aboutImg from "../assets/about.jpg"; 
+// import aboutImg from "../assets/about.jpg"; 
+import aboutImg from "../assets/profile/naveenJakkulaProfile1.jpg"; 
+
 import { ABOUT_TEXT } from "../constants";
 import {motion} from "framer-motion";
 
@@ -26,7 +28,7 @@ const About = () => {
             transition={{ duration: 0.5}}
             className="w-full lg:w-1/2">
                 <div className="flex justify-center text-justify lg:justify-start">
-                    <p className="my-2 max-w-xl py-6">{ABOUT_TEXT}</p>
+                    <p className="my-2 max-w-2xl text-lg py-6">{ABOUT_TEXT}</p>
                 </div>
             </motion.div>
 
